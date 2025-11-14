@@ -1,0 +1,6 @@
+@EMMA_Project_HostAddress = http://localhost:5232
+
+GET {{EMMA_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

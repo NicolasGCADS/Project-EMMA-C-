@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A5gTLrzxfoM=",
+  "success": true,
+  "projectFilePath": "D:\\Fiap\\Projeto\\2TDSPX\\Global Solution 2\\DotNet\\EMMA Project\\EMMA Project\\EMMA Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\nguin\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
