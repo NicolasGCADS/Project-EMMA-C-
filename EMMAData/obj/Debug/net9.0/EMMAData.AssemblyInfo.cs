@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EMMAData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db98f431ee02c3d0480786e80faac6914037aa12")]
 [assembly: System.Reflection.AssemblyProductAttribute("EMMAData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EMMAData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

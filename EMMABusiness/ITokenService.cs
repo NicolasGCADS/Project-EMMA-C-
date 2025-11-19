@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace EMMABusiness
+﻿namespace EMMABusiness
 {
-    internal interface ITokenService
+    public class TokenResult
     {
+        public string AccessToken { get; set; } = null!;
+        public DateTime ExpiresAt { get; set; }
+        public string Jti { get; set; } = null!;
+    }
+
+    public interface ITokenService
+    {
+        TokenResult GenerateToken(string userId, string username, string role);
     }
 }
